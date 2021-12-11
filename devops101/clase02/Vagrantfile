@@ -1,0 +1,4 @@
+#vagrant init hashicorp/bionic64
+Vagrant.configure("2") do |config|  
+  config.vm.boxx = "hashicorp/bionic64"
+end

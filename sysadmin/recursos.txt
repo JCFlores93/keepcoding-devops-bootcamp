@@ -1,0 +1,10 @@
+https://www.redhat.com/sysadmin/linux-skills-home-lab?sc_cid=7013a000002q1zLAAQ
+https://github.com/juliansotoca/ansible-vbox-vagrant-kubernetes
+https://www.redhat.com/sysadmin/one-line-linux-commands?sc_cid=7013a000002q0nfAAA
+
+https://raw.githubusercontent.com/KeepCodingCloudDevops5/sysadmin/main/10-syslog-filter.conf?token=ABEHUIJL4H77BM4VHOJDWRLBVFFBC
+https://github.com/KeepCodingCloudDevops5/sysadmin/blob/main/10-syslog-filter.conf
+
+https://twitter.com/gnuowned/status/1366903360184406017
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/deb.html
